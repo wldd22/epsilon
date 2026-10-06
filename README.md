@@ -1,5 +1,5 @@
 # Epsilon
-Columnar split keyboard with 5 columns, 4 rows, and thumb clusters. Made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
+Columnar split keyboard with 5 columns, 4 rows, and thumb clusters. Originally made for [Hackclub's Blueprint](https://blueprint.hackclub.com/)
 
 ## Details
 PCB made using KiCAD \
